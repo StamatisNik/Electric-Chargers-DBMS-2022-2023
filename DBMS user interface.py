@@ -5,7 +5,8 @@ import	sqlite3
 #connect with our database.
 conn=sqlite3.connect("Charger_Company.db")
 c=conn.cursor()
-ic=r'C:\Users\stama\OneDrive\Υπολογιστής\Db_proj\lightning.ico'
+dir='.'
+ic=os.path.join(dir,'lightning.ico')
 
 # a function that inserts data into the table charging station.
 def insert_data_Charging_station(name_code,pluscode):
