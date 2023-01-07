@@ -1,7 +1,7 @@
 #import libraries.
 import	PySimpleGUI	as	sg
 import	sqlite3
-
+import os
 #connect with our database.
 conn=sqlite3.connect("Charger_Company.db")
 c=conn.cursor()
