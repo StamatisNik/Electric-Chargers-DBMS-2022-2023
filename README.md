@@ -10,7 +10,7 @@ To Electric Chargers DBMS δημιουργεί την βάση δεδομένω�
 Αρχεία που περιλαμβάνονται:
 
 Database and random data generator.py
-DBMS user interface.pyw
+DBMS user interface.py
 companylogo.png
 lightning.ico
 readme.txt
