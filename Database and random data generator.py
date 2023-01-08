@@ -1,4 +1,4 @@
-#import libraries.
+#import necessary libraries.
 import sqlite3
 import os.path
 from faker import Faker 
