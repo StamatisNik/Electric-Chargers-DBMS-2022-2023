@@ -1,4 +1,4 @@
-#import libraries.
+#import necessary libraries.
 import	PySimpleGUI	as	sg
 import	sqlite3
 import os
