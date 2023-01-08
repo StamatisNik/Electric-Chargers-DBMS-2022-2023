@@ -472,7 +472,7 @@ f.date_between(datetime.date(2022, 1, 1),datetime.date(2022, 12, 31))
 
 
 #users in the database,must be 20 or more users to start generating data.
-users=20
+users=100
 
 for i in range(users): 
 
